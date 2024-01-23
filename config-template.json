@@ -1,0 +1,7 @@
+{
+    "model" : "glm-3-turbo",
+    "api_key": "",
+    "prompt" : "",
+    "temperature" : 0.7,
+    "top_p" : 0.7
+}
